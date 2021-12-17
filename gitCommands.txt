@@ -1,3 +1,4 @@
 git diff [branch_name](ветка локального репозитория)/[origin/branch_name](копия ветки удаленного репозитория) различия файлов в head и ветке br_name
 git push [remote_name] -d [branch_name](имя локальной ветки)   - удаляет ветку br_name из удаленного репозитория.
 gitk --all
+[alias] в .gitconfig
